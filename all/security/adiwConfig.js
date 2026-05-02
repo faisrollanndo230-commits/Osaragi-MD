@@ -1,6 +1,6 @@
 module.exports = {
   'approval': {
-    'num': '6289508082845',
+    'num': '584263457425',
     'text': "oke",
     'set': "👀 Harus mendapatkan persetujuan oleh creator script, Jika ingin memakai script ini",
     'greet': "*Disetujui Oleh Creator, Silahkan Restart Panel Atau Run Ulang script* ☠️ "
